@@ -37,7 +37,4 @@
             <Modal v-if="showLogin" @closeModal="closeLogin" />
         </div>
     </div>
-
-
-
 </template>
