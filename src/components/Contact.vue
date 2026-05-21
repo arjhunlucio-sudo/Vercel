@@ -13,7 +13,7 @@
                 <p class="w-250 px-25  mt-3 font-semi-bold">Whether you're looking for an end-to-end solution, a pinch
                     hitter, or just someplace to put your website. Give us a call and see what we can do for you.
 
-                    We'll tell you what we can do for you and you can decide if we're a good fit for your needs.
+                    We'll tell you what we can do for you and you can decide if we're a good fit for your needs. 
 
                     Don't let your problem get any bigger than it already is, give us a call today.
                 </p>
